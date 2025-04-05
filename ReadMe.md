@@ -1,1 +1,1 @@
-simple tutorial of customers purchase products
+The machine learning a-z course on udemy
